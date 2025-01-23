@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Convers",
+  title: "Convērs",
   description: "Start your conversation threads securely across distributed systems.",
 };
 
